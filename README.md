@@ -1,5 +1,6 @@
 # test
 testbranch modify
 testbranch local
-testbranch web
+testbranch w
 pull
+newbranch modify
