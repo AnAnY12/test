@@ -1,3 +1,4 @@
 # test
-delete all_
-show null
+delete all
+master begin
+testbranch begin
