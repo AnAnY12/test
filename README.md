@@ -1,3 +1,4 @@
 # test
 delete all
-newbranch modify (local)
+master begin
+newbranch begin
