@@ -1,5 +1,3 @@
 # test
-testbranch modify
-testbranch local
-testbranch web
-pull
+delete all_
+testbranch modify (local)
