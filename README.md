@@ -1,9 +1,7 @@
 # test
-<<<<<<< HEAD
 delete all
 master modify (local)
-=======
-<<<<<<< HEAD
+___---
 delete all_
 testbranch modify (local)
 old_
@@ -12,5 +10,3 @@ testbranch local
 testbranch web
 pull
 testbranch modify
->>>>>>> 56571e882e83ecda3b4a9ee535fb8797c17da36b
->>>>>>> testbranch
