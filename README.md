@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 delete all_
 testbranch modify (local)
-=======
+old_
 testbranch modify
 testbranch local
 testbranch web
